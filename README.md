@@ -1,4 +1,4 @@
-# 📊 Ultra Pro E-Commerce SQL Project
+# 📊 E-Commerce SQL Project
 
 ![Project Banner](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
