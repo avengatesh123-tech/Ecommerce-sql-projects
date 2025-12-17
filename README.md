@@ -1,6 +1,7 @@
 # 📊 E-Commerce SQL Project
 
 ![SQL Analytics Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![Data Analytics](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
 
 
 ---
