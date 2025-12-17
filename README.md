@@ -72,9 +72,26 @@ This is a **full-stack E-commerce SQL Server project** designed for real-world a
 
 ## 🌐 Portfolio & Social Banners
 
-* General Banner: ![Project Banner](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-* Instagram Banner: ![Instagram](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-* Kaggle Banner: ![Kaggle](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+> ✅ **Note:** External GIF links may break over time. Below are **stable, professional banners** suitable for GitHub & Kaggle.
+
+### 🔹 Main Project Banner
+
+![SQL Analytics](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+### 🔹 GitHub / Portfolio Badges
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-red?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
+![Rows](https://img.shields.io/badge/Rows-10k%2B-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
+### 🔹 Kaggle Banner (Static & Reliable)
+
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge\&logo=kaggle)
+
+### 🔹 Instagram / Social Banner
+
+![Social](https://img.shields.io/badge/Portfolio-Data%20Analytics-purple?style=for-the-badge\&logo=instagram)
 
 ---
 
@@ -85,3 +102,4 @@ This is a **full-stack E-commerce SQL Server project** designed for real-world a
 ---
 
 *Created by: Vengatesh A — Professional SQL & Data Analytics Project*
+
