@@ -21,7 +21,7 @@ This is a **full-stack E-commerce SQL Server project** designed for real-world a
 
 | Component | Description                                                                         |
 | --------- | ----------------------------------------------------------------------------------- |
-| Database  | `UltraEcommerceDB`                                                                  |
+| Database  | `EcommerceDB`                                                                  |
 | Tables    | `dim_customer`, `dim_product`, `dim_date`, `dim_city`, `fact_sales`                 |
 | Scripts   | Data generation, inserts, analytics queries                                         |
 | Queries   | CLV, Top Customers, Product contribution %, MoM growth, Churn, Repeat Purchase Rate |
@@ -49,7 +49,7 @@ This is a **full-stack E-commerce SQL Server project** designed for real-world a
 
 ## 📝 How to Run
 
-1. Open `UltraProEcommerce.sql` in **SQL Server Management Studio (SSMS)**
+1. Open `Ecommerce.sql` in **SQL Server Management Studio (SSMS)**
 2. Execute step by step:
 
    * Database creation
@@ -73,7 +73,6 @@ This is a **full-stack E-commerce SQL Server project** designed for real-world a
 
 ## 🌐 Portfolio & Social Banners
 
-> ✅ **Note:** External GIF links may break over time. Below are **stable, professional banners** suitable for GitHub & Kaggle.
 
 ### 🔹 Main Project Banner
 
