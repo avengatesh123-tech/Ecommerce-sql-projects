@@ -9,7 +9,7 @@
 
 This is a **full-stack E-commerce SQL Server project** designed for real-world analytics and portfolio showcase:
 
-* 10,000+ realistic transactional records
+* 10,000+ realistic transactional records.
 * Customer, Product, Date, and City dimension tables
 * Fact Sales table for advanced analysis
 * Analytics queries for CLV, churn, cohort analysis, MoM revenue growth
